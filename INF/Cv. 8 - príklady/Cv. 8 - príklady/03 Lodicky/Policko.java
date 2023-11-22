@@ -9,6 +9,7 @@ import fri.shapesge.Stvorec;
 public class Policko {
     
     private Stvorec stvorec;
+    private Lodka lodka;
     
     /**
      * Constructor for objects of class Policko
@@ -18,6 +19,10 @@ public class Policko {
         this.stvorec.zmenStranu(velkost);
         this.stvorec.zmenFarbu("blue");
         this.stvorec.zobraz();
+    }
+    
+    public void priradLodku(Lodka lodka) {
+        this.lodka = lodka;
     }
     
     private void prekresli() {
