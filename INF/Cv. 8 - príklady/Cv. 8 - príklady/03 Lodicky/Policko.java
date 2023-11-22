@@ -10,6 +10,7 @@ public class Policko {
     
     private Stvorec stvorec;
     private Lodka lodka;
+    private boolean zasiahnute;
     
     /**
      * Constructor for objects of class Policko
@@ -19,13 +20,27 @@ public class Policko {
         this.stvorec.zmenStranu(velkost);
         this.stvorec.zmenFarbu("blue");
         this.stvorec.zobraz();
+        this.zasiahnute = false;
     }
     
     public void priradLodku(Lodka lodka) {
         this.lodka = lodka;
     }
     
+    public void zasiahni() {
+        this.zasiahnute = true;
+        this.prekresli();
+    }
+    
     private void prekresli() {
-        this.stvorec.zmenFarbu("red");
+        if (this.zasiahnute) {
+            if (this.lodka == null) {
+                this.stvorec.zmenFarbu("#00008B");
+            } else {
+                this.stvorec.zmenFarbu("red");
+            }
+        } else {
+            this.stvorec.zmenFarbu("red");
+        }
     }
 }

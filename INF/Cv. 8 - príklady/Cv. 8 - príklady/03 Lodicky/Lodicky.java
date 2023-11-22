@@ -47,4 +47,9 @@ public class Lodicky {
         
         citac.close();
     }
+    
+    public void zasiahnu(int x ,int y) {
+        this.hraciaPlocha[x][y].zasiahni();
+    }
+    
 }
