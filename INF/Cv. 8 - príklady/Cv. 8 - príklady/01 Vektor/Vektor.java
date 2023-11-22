@@ -6,8 +6,13 @@ public class Vektor {
     }
     
     public double skalarnySucin(Vektor vektorB) {
-        // doplnit kod
-        return 0;
+        double sucin = 0;
+        int index = 0;
+        for (double zlozka : this.vektor) {
+            sucin += zlozka * vektorB.getPrvok(index);
+            index++;
+        }
+        return sucin;
     }
     
     public double getPrvok(int index) {
@@ -20,9 +25,14 @@ public class Vektor {
     
     public void vypisVektor() {
         // osetrit ciarku na konci
+        boolean jePrva = true;
         System.out.print("(");
         for (double zlozka : this.vektor) {
-            System.out.format("%.2f,", zlozka);
+            if (!jePrva){
+                System.out.println("; ");
+            }
+            System.out.format("%.2f; ", zlozka);
+            jePrva = false;
         }
         System.out.println(")");
     }
