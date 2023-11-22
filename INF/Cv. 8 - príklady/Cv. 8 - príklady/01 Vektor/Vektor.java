@@ -1,4 +1,4 @@
-public class Vektor {
+ public class Vektor {
     private double[] vektor;
     
     public Vektor(double[] vektor) {
@@ -6,13 +6,16 @@ public class Vektor {
     }
     
     public double skalarnySucin(Vektor vektorB) {
-        double sucin = 0;
-        int index = 0;
-        for (double zlozka : this.vektor) {
-            sucin += zlozka * vektorB.getPrvok(index);
-            index++;
+        if (this.getDlzka() == vektorB.getDlzka()) {
+            double sucin = 0;
+            int index = 0;
+            for (double zlozka : this.vektor) {
+                sucin += zlozka * vektorB.getPrvok(index);
+                index++;
+            }
+            return sucin;
         }
-        return sucin;
+            return 0;
     }
     
     public double getPrvok(int index) {
