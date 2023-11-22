@@ -14,10 +14,8 @@ public class Policko {
      * Constructor for objects of class Policko
      */
     public Policko(int x, int y, int velkost) {
-        this.stvorec = new Stvorec();
+        this.stvorec = new Stvorec(x * (velkost + 1),y * (velkost + 1));
         this.stvorec.zmenStranu(velkost);
-        this.stvorec.posunVodorovne(x);
-        this.stvorec.posunZvisle(y);
         this.stvorec.zmenFarbu("blue");
         this.stvorec.zobraz();
     }

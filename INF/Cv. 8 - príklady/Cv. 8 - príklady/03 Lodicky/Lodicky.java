@@ -15,7 +15,7 @@ public class Lodicky {
     /**
      * Constructor for objects of class Lodicky
      */
-    public Lodicky(String nazovMapy) throws IOException {
+    public Lodicky(int velkostPolicka, String nazovMapy) throws IOException {
         File subor = new File(nazovMapy);
         Scanner citac = new Scanner(subor);
         
@@ -27,7 +27,7 @@ public class Lodicky {
         //Vytvorenie hracej plochy v grafickom vystupe
         for (int i = 0; i < x; i++){
             for (int j = 0;  j < y; j++) {
-                this.hraciaPlocha[i][j] = new Policko(i*40,j*40,40);
+                this.hraciaPlocha[i][j] = new Policko(i,j,velkostPolicka);
             }
         }
 
