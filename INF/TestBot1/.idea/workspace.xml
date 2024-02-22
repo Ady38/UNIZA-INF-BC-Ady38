@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6b165685-74a3-41b4-9a63-f7ede5dd8114" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Automat - vnutorny.frip2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Automat - vnutorny.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Automat - vonkajsi, vnutorny.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Automat MHD/primitivnyAutomatNaListky/AutomatMHD.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Automat MHD/primitivnyAutomatNaListky/README.TXT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Automat MHD/primitivnyAutomatNaListky/package.bluej" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cv. 7 - príklad/Cv. 7 - príklad/5ZY12.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cv. 7 - príklad/Cv. 7 - príklad/Osoba.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cv. 7 - príklad/Cv. 7 - príklad/Skupina.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cv. 7 - príklad/Cv. 7 - príklad/package.bluej" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cv. 8 - príklady/Cv. 8 - príklady/01 Vektor/README.TXT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cv. 8 - príklady/Cv. 8 - príklady/01 Vektor/Vektor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cv. 8 - príklady/Cv. 8 - príklady/01 Vektor/package.bluej" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cv. 8 - príklady/Cv. 8 - príklady/02 Matica/Matica.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cv. 8 - príklady/Cv. 8 - príklady/02 Matica/README.TXT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cv. 8 - príklady/Cv. 8 - príklady/02 Matica/package.bluej" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cv. 8 - príklady/Cv. 8 - príklady/03 Lodicky/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cv. 8 - príklady/Cv. 8 - príklady/03 Lodicky/.idea/libraries/shapesGE_SK_1_2_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cv. 8 - príklady/Cv. 8 - príklady/03 Lodicky/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cv. 8 - príklady/Cv. 8 - príklady/03 Lodicky/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cv. 8 - príklady/Cv. 8 - príklady/03 Lodicky/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cv. 8 - príklady/Cv. 8 - príklady/03 Lodicky/03 Lodicky.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cv. 8 - príklady/Cv. 8 - príklady/03 Lodicky/Lodicky.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cv. 8 - príklady/Cv. 8 - príklady/03 Lodicky/Lodka.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cv. 8 - príklady/Cv. 8 - príklady/03 Lodicky/Ovladanie.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cv. 8 - príklady/Cv. 8 - príklady/03 Lodicky/Policko.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cv. 8 - príklady/Cv. 8 - príklady/03 Lodicky/README.TXT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cv. 8 - príklady/Cv. 8 - príklady/03 Lodicky/lodkyMapa.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cv. 8 - príklady/Cv. 8 - príklady/03 Lodicky/package.bluej" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Datum.frip2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DigitalneHodiny/DigitalneHodiny/CiselnyDisplej.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DigitalneHodiny/DigitalneHodiny/DigitalneHodiny.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DigitalneHodiny/DigitalneHodiny/Kruh.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DigitalneHodiny/DigitalneHodiny/Obdlznik.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DigitalneHodiny/DigitalneHodiny/Platno.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DigitalneHodiny/DigitalneHodiny/package.bluej" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kalkulacka/kalkulacka/Kalkulacka.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kalkulacka/kalkulacka/KalkulackaTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kalkulacka/kalkulacka/README.TXT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kalkulacka/kalkulacka/package.bluej" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kalkulacka/kalkulačka.frip2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SedemSegmentovyDisplej/sedemSegmentovyDisplej/Cislica.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SedemSegmentovyDisplej/sedemSegmentovyDisplej/DvojciferneCislo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SedemSegmentovyDisplej/sedemSegmentovyDisplej/Obdlznik.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SedemSegmentovyDisplej/sedemSegmentovyDisplej/Platno.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SedemSegmentovyDisplej/sedemSegmentovyDisplej/README.TXT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SedemSegmentovyDisplej/sedemSegmentovyDisplej/Segment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SedemSegmentovyDisplej/sedemSegmentovyDisplej/cyklus.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SedemSegmentovyDisplej/sedemSegmentovyDisplej/package.bluej" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SedemSegmentovyDisplej/sedem_segmentovy_displej.frip2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TurnajovaTabulka/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TurnajovaTabulka/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TurnajovaTabulka/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TurnajovaTabulka/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TurnajovaTabulka/Krajina.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TurnajovaTabulka/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TurnajovaTabulka/README.TXT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TurnajovaTabulka/Tim.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TurnajovaTabulka/Turnaj.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TurnajovaTabulka/TurnajovaTabulka.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TurnajovaTabulka/Vysledok.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TurnajovaTabulka/ZoznamTimov.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TurnajovaTabulka/out/production/TurnajovaTabulka/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TurnajovaTabulka/out/production/TurnajovaTabulka/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TurnajovaTabulka/out/production/TurnajovaTabulka/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TurnajovaTabulka/out/production/TurnajovaTabulka/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TurnajovaTabulka/out/production/TurnajovaTabulka/README.TXT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TurnajovaTabulka/out/production/TurnajovaTabulka/TurnajovaTabulka.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TurnajovaTabulka/out/production/TurnajovaTabulka/package.bluej" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TurnajovaTabulka/package.bluej" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uloha1/Kalkulacka.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uloha1/KalkulackaTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uloha1/README.TXT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uloha1/package.bluej" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uloha2/FormatovacCisla.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uloha2/FormatovacCislaTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uloha2/README.TXT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uloha2/package.bluej" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uloha3/CirkusStringerto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uloha3/CirkusStringertoTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uloha3/README.TXT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uloha3/package.bluej" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kocka.frip2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../primitivnyAutomatNaListky/primitivnyAutomatNaListky/AutomatMHD.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../primitivnyAutomatNaListky/primitivnyAutomatNaListky/Datum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../primitivnyAutomatNaListky/primitivnyAutomatNaListky/README.TXT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../primitivnyAutomatNaListky/primitivnyAutomatNaListky/doc/AutomatMHD.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../primitivnyAutomatNaListky/primitivnyAutomatNaListky/doc/allclasses.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../primitivnyAutomatNaListky/primitivnyAutomatNaListky/doc/constant-values.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../primitivnyAutomatNaListky/primitivnyAutomatNaListky/doc/element-list" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../primitivnyAutomatNaListky/primitivnyAutomatNaListky/doc/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../primitivnyAutomatNaListky/primitivnyAutomatNaListky/doc/logfile.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../primitivnyAutomatNaListky/primitivnyAutomatNaListky/doc/package-summary.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../primitivnyAutomatNaListky/primitivnyAutomatNaListky/doc/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../primitivnyAutomatNaListky/primitivnyAutomatNaListky/doc/stylesheet.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../primitivnyAutomatNaListky/primitivnyAutomatNaListky/package.bluej" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../student-uloha/student-uloha/README.TXT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../student-uloha/student-uloha/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../student-uloha/student-uloha/package.bluej" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tvaryV2 (1)/tvaryV2/Elipsa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tvaryV2 (1)/tvaryV2/Kruh.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tvaryV2 (1)/tvaryV2/Obdlznik.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tvaryV2 (1)/tvaryV2/Platno.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tvaryV2 (1)/tvaryV2/README.TXT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tvaryV2 (1)/tvaryV2/Stvorec.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tvaryV2 (1)/tvaryV2/Trojuholnik.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tvaryV2 (1)/tvaryV2/package.bluej" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tvaryV3/tvaryV3/Elipsa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tvaryV3/tvaryV3/Kruh.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tvaryV3/tvaryV3/Manazer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tvaryV3/tvaryV3/Obdlznik.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tvaryV3/tvaryV3/Platno.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tvaryV3/tvaryV3/README.TXT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tvaryV3/tvaryV3/Stvorec.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tvaryV3/tvaryV3/Trojuholnik.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tvaryV3/tvaryV3/package.bluej" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PZP/Matica-09/test/package.bluej" beforeDir="false" afterPath="$PROJECT_DIR$/../../PZP/Matica-09/test/package.bluej" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="TestBot1" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="TestBot1" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="TestBot1" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2awFxOLHNVNorRxVZQvn6BAprpm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Gradle.TestBot1 [:Main.main()].executor": "Run",
+    "Gradle.TestBot1 [build].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/adyad/Documents/UNIZA/INF2/00 wof",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sk.wz.ady38.Main" />
+      <module name="TestBot1.main" />
+      <option name="PROGRAM_PARAMETERS" value="-t MTE5NjAxMDMyNzg0Njk1MzA3MQ.GA5nSZ.NHXbUG5YlSA-UckOPCeiI8smSaK7yV8mz9WnkY" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sk.wz.ady38.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestBot1 [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Gradle.TestBot1 [build]" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.TestBot1 [build]" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.1-temurin-21.0.1-f644763e9732-a3c558b9" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6b165685-74a3-41b4-9a63-f7ede5dd8114" name="Changes" comment="" />
+      <created>1705221982289</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1705221982289</updated>
+      <workItem from="1705221983678" duration="2974000" />
+      <workItem from="1705228120981" duration="61000" />
+      <workItem from="1705228244878" duration="146000" />
+      <workItem from="1705239974147" duration="117000" />
+      <workItem from="1705260410080" duration="906000" />
+      <workItem from="1705415751312" duration="55000" />
+      <workItem from="1705653755959" duration="4087000" />
+      <workItem from="1705762304650" duration="4000" />
+      <workItem from="1705997650213" duration="596000" />
+      <workItem from="1708589253642" duration="107000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
