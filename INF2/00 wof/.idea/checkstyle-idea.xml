@@ -6,13 +6,13 @@
     <copyLibs>true</copyLibs>
     <option name="thirdPartyClasspath" />
     <option name="activeLocationIds">
-      <option value="c5ebe503-8257-4c2d-b565-a2c07cd3e815" />
+      <option value="514afa31-47ac-4823-b0bd-aba9f6d4260b" />
     </option>
     <option name="locations">
       <list>
         <ConfigurationLocation id="bundled-sun-checks" type="BUNDLED" scope="All" description="Sun Checks">(bundled)</ConfigurationLocation>
         <ConfigurationLocation id="bundled-google-checks" type="BUNDLED" scope="All" description="Google Checks">(bundled)</ConfigurationLocation>
-        <ConfigurationLocation id="c5ebe503-8257-4c2d-b565-a2c07cd3e815" type="HTTP_URL" scope="All" description="FRI">https://juno.kst.fri.uniza.sk/~duracik@kst/inf/default_checks.xml</ConfigurationLocation>
+        <ConfigurationLocation id="514afa31-47ac-4823-b0bd-aba9f6d4260b" type="HTTP_URL" scope="All" description="FRI">https://raw.githubusercontent.com/infjava/BlueJFRI/master/data/checkstyle/default_checks.xml</ConfigurationLocation>
       </list>
     </option>
   </component>

@@ -1,4 +1,5 @@
 import java.util.ArrayList;
+import java.util.HashMap;
 
 /**
  * Trieda Miestnost realizuje jednu miestnost/priestor v celom priestore hry.
@@ -13,12 +14,9 @@ import java.util.ArrayList;
  * @version 2012.02.21
  */
 public class Miestnost {
-    public String popisMiestnosti;
-    public Miestnost severnyVychod;
-    public Miestnost juznyVychod;
-    public Miestnost vychodnyVychod;
-    public Miestnost zapadnyVychod;
-    public ArrayList<Predmet> predmety;
+    private final HashMap<String, Miestnost> vychody;
+    private String popisMiestnosti;
+    private ArrayList<Predmet> predmety;
 
     /**
      * Vytvori miestnost popis ktorej je v parametrom.
@@ -30,6 +28,7 @@ public class Miestnost {
     public Miestnost(String popis) {
         this.popisMiestnosti = popis;
         this.predmety = new ArrayList<>();
+        this.vychody = new HashMap<>();
     }
 
     /**
@@ -43,16 +42,16 @@ public class Miestnost {
      */
     public void nastavVychody(Miestnost sever, Miestnost vychod, Miestnost juh, Miestnost zapad) {
         if (sever != null) {
-            this.severnyVychod = sever;
+            this.vychody.put("sever", sever);
         }
         if (vychod != null) {
-            this.vychodnyVychod = vychod;
+            this.vychody.put("vychod", vychod);
         }
         if (juh != null) {
-            this.juznyVychod = juh;
+            this.vychody.put("juh", juh);
         }
         if (zapad != null) {
-            this.zapadnyVychod = zapad;
+            this.vychody.put("zapad", zapad);
         }
     }
 
@@ -85,5 +84,30 @@ public class Miestnost {
         }
 
         return null;
+    }
+
+    public ArrayList<Predmet> getPredmety() {
+        return this.predmety;
+    }
+
+    void vypisPopis() {
+        System.out.println("Teraz si v miestnosti " + this.getPopis());
+        System.out.print("Vychody: ");
+        for (String smer : this.vychody.keySet()) {
+            System.out.println(smer + " ");
+        }
+        System.out.println();
+
+        if (!this.getPredmety().isEmpty()) {
+            System.out.print("Predmety v miestnosti: ");
+            for (Predmet predmet : this.getPredmety()) {
+                System.out.printf("%s ", predmet.getNazov());
+            }
+            System.out.println();
+        }
+    }
+
+    public Miestnost getVychodVsmere(String smer) {
+        return this.vychody.get(smer);
     }
 }

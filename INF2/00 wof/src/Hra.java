@@ -85,30 +85,7 @@ public class Hra  {
         System.out.println("World of FRI je nova, neuveritelne nudna adventura.");
         System.out.println("Zadaj 'pomoc' ak potrebujes pomoc.");
         System.out.println();
-        System.out.println("Teraz si v miestnosti " + this.aktualnaMiestnost.getPopis());
-        System.out.print("Vychody: ");
-        if (this.aktualnaMiestnost.severnyVychod != null) {
-            System.out.print("sever ");
-        }
-        if (this.aktualnaMiestnost.vychodnyVychod != null) {
-            System.out.print("vychod ");
-        }
-        if (this.aktualnaMiestnost.juznyVychod != null) {
-            System.out.print("juh ");
-        }
-        if (this.aktualnaMiestnost.zapadnyVychod != null) {
-            System.out.print("zapad ");
-        }
-
-        System.out.println();
-
-        if (!this.aktualnaMiestnost.predmety.isEmpty()) {
-            System.out.print("Predmety v miestnosti: ");
-            for (Predmet predmet : this.aktualnaMiestnost.predmety) {
-                System.out.printf("%s ", predmet.getNazov());
-            }
-            System.out.println();
-        }
+        this.aktualnaMiestnost.vypisPopis();
     }
 
     /**
@@ -176,49 +153,13 @@ public class Hra  {
         String smer = prikaz.getParameter();
 
         // Pokus o opustenie aktualnej miestnosti danym vychodom.
-        Miestnost novaMiestnost = null;
-        switch (smer) {
-            case "sever":
-                novaMiestnost = this.aktualnaMiestnost.severnyVychod;
-                break;
-            case "vychod":
-                novaMiestnost = this.aktualnaMiestnost.vychodnyVychod;
-                break;
-            case "juh":
-                novaMiestnost = this.aktualnaMiestnost.juznyVychod;
-                break;
-            case "zapad":
-                novaMiestnost = this.aktualnaMiestnost.zapadnyVychod;
-                break;
-        }
+        Miestnost novaMiestnost = this.aktualnaMiestnost.getVychodVsmere(smer);
 
         if (novaMiestnost == null) {
             System.out.println("Tam nie je vychod!");
         } else {
             this.aktualnaMiestnost = novaMiestnost;
-            System.out.println("Teraz si v miestnosti " + this.aktualnaMiestnost.getPopis());
-            System.out.print("Vychody: ");
-            if (this.aktualnaMiestnost.severnyVychod != null) {
-                System.out.print("sever ");
-            }
-            if (this.aktualnaMiestnost.vychodnyVychod != null) {
-                System.out.print("vychod ");
-            }
-            if (this.aktualnaMiestnost.juznyVychod != null) {
-                System.out.print("juh ");
-            }
-            if (this.aktualnaMiestnost.zapadnyVychod != null) {
-                System.out.print("zapad ");
-            }
-            System.out.println();
-
-            if (!this.aktualnaMiestnost.predmety.isEmpty()) {
-                System.out.print("Predmety v miestnosti: ");
-                for (Predmet predmet : this.aktualnaMiestnost.predmety) {
-                    System.out.printf("%s ", predmet.getNazov());
-                }
-                System.out.println();
-            }
+            this.aktualnaMiestnost.vypisPopis();
         }
     }
 

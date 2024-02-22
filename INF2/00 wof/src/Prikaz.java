@@ -3,10 +3,8 @@
  * V tejto verzii prikaz tvoria dve slova: nazov prikazu a druhe slovo.
  * Napriklad prikaz "chod juh" tvoria dva retazce "chod" ako nazov prikazu a
  * "juh" ako oznacenie smeru.
- * 
  * Predpoklada sa, ze prikaz je skontrolovany, t.j., ze nazov prikazu je znamy.
  * Pre neznamy prikaz je jeho nazov nastaveny na hodnotu <null>.
- *
  * Ak prikaz nema parameter, potom ma druhe slovo hodnotu <null>.
  * 
  * @author  Michael Kolling and David J. Barnes
